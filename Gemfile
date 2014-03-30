@@ -41,7 +41,7 @@ gem 'spring',        group: :development
 
 # learn-rails
 gem 'activerecord-tableless'
-# gem 'figaro'
+gem 'figaro', github: 'laserlemon/figaro'
 gem 'foundation-rails'
 gem 'gibbon'
 gem 'google_drive'
